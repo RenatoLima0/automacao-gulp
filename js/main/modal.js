@@ -12,6 +12,5 @@ function activeModal(e) {
     modalBtn.innerText = 'Fechar Modal';
   }
 }
-
 modalBtn.addEventListener('click', activeModal);
 }
